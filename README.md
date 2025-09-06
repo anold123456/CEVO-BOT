@@ -33,6 +33,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[[_______________________________channel_____________________](https://whatsapp.com/channel/0029VbBNJPN4o7qP3h000F2d)]
-
+[[_______________________________channel_____________________]
+https://whatsapp.com/channel/0029VbBNJPN4o7qP3h000F2d
 
