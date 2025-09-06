@@ -2,7 +2,7 @@
 </p>
 
 
-        ```To open Timnasa TMd Repo Tap This Image There Is not Safe Use Original Repo To Get Update```
+        ```To open "CEVO TMD BOT" Repo Tap This Image There Is not Safe Use Original Repo To Get Update```
 [![Tap To Open Repo](https://i.imgur.com/1DHOg3Z.gif)](xxxxxxxxxxx)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
