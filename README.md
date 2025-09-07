@@ -1,38 +1,20 @@
-  <a href="cevo-erro"><img title="GET-SESSION ID HERE CEVO" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=pink&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+<p align="center">
+  <a href="https://github.com/novaxmd/BMB-XMD-DATA/raw/refs/heads/main/bmb.jpg">
+    <img src="https://i.postimg.cc/bwRBhLp3/5042f575-5d62-426c-821e-273d383cef49.jpg" width="100%" height="auto">
+  </a>
 </p>
 
+CLICK HERE TO DEPLOY YOUR OWN WHATSAPP BOT 
 
-        ```To open "CEVO TMD BOT" Repo Tap This Image There Is not Safe Use Original Repo To Get Update```
-[![Tap To Open Repo](https://i.imgur.com/1DHOg3Z.gif)](xxxxxxxxxxx)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="left">
-<a href="cevo_erro"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝗽𝗮𝗶𝗿 𝘀𝗲𝘀𝘀𝗶𝗼𝗻 𝗶𝗱 𝟮" width="300"></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href="https://deployment-gk6k.vercel.app/">
+  <img 
+    title="DEPLOY-NOW" 
+    src="https://img.shields.io/badge/DEPLOY--NOW-Click%20to%20deploy-brightgreen?style=for-the-badge&logo=vercel&logoColor=black"
+    width="300" 
+    height="40.45"
+    alt="Deploy with Vercel"
+  />
+</a>
 
-<p align="center">
-  <!-- GitHub Repo Activity Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Qartde&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Repo Stats" width="800">
-
-  <!-- Repo Activity Stats Screen -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Next5x&repo=Next5x/timnasa" alt="Pinned GitHub Repo Activity" width="800"> 
-  ## ☉︎CEVO TMD BOT☉︎ ©𝟸𝟶𝟸𝟻##
-  █▄▄ ███ █▄▄█▄▄ ███ █▄▄
-  █▄▄ ███ █▄▄█▄▄ ███ █▄▄
-  
-![](gravity.gif)
-   
-   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=green&style=for-the-badge&logo=red" width="180" height="43.45"/></a></p>
-
-   ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW CEVO
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a href="https://dashboard.heroku.com/new?template=https://github.com/anold123456/CEVO-BOT"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=red&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
-
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-[[_______________________________channel_____________________]
-https://whatsapp.com/channel/0029VbBNJPN4o7qP3h000F2d
 
